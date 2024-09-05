@@ -11,7 +11,7 @@ Neste repositório você irá encontrar a análise de dois (2) projetos, sendo u
 - Protótipo do Figma [PodcastApp](https://www.figma.com/design/ECIzSfAWHcPJSi3HxkKdUr/PodcastAppChallenge?m=auto&t=WBSxPDFw8EJ0oCFy-1)
   
 ![Referência Protótipo](img/ref_figma.png)
-
+0
 ## Portfólio Plano de Teste
 
 - Site utilizado para elaboração do Plano [Saucedemo](https://www.saucedemo.com/v1/)
