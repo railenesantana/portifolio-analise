@@ -1,4 +1,4 @@
-# Portfólio
+# Projeto Podcast APP
 Este projeto tem como finalidade mostrar o meu trabalho de análise de requisitos e plano de teste
 
 Neste repositório você irá encontrar a análise de dois (2) projetos, sendo um:
