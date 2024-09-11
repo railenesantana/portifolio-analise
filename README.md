@@ -16,4 +16,4 @@ Neste repositório você irá encontrar a análise de dois (2) projetos, sendo u
 
 - Site utilizado para elaboração do Plano [Saucedemo](https://www.saucedemo.com/v1/)
 
-![Home Site Saucedemo](../portifolio-analise/saucedemo/img/site_saucedemo.png)
+![Home Site Saucedemo](../portifolio-analise/img/site_saucedemo.png)
